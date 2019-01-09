@@ -1,0 +1,10 @@
+******Simple Hill Climbing*****
+State: [2, 8, 6, 5, 2, 0] Cost:16
+State: [2, 8, 2, 5, 6, 0] Cost:12
+****Stochastic Hill Climbing***
+State: [2, 8, 2, 5, 6, 0] Cost:12
+*****First Choice Hill Climbing****
+State: [2, 8, 2, 5, 6, 0] Cost:12
+******Simple Hill Climbing*****
+State: [2, 0, 2, 5, 6, 8] Cost:19
+State: [2, 8, 2, 5, 6, 0] Cost:12

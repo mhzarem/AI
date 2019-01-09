@@ -1,0 +1,20 @@
+**********************Breadth First Search*********************
+the number of expanded nodes: 75
+the number of made nodes: 425
+the maximum number of made nodes: 351
+depth of result: 4
+**********************Depth First Search*********************
+the number of expanded nodes: 35
+the number of made nodes: 112
+the maximum number of made nodes: 78
+depth of result: 33
+**********************Iterative Depth First Search*********************
+the number of expanded nodes: 46
+the number of made nodes: 48
+the maximum number of made nodes: 11
+depth of result: 4
+**********************Uniform Cost Search*********************
+the number of expanded nodes: 35
+the number of made nodes: 55
+the maximum number of made nodes: 30
+depth of result: 4

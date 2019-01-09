@@ -1,0 +1,25 @@
+**********************Limited Depth First Search*********************
+the number of expanded nodes: 7620
+the number of made nodes: 7636
+the maximum number of made nodes: 26
+depth of result: 28
+**********************Breadth First Search*********************
+the number of expanded nodes: 261829
+the number of made nodes: 723175
+the maximum number of made nodes: 461347
+depth of result: 12
+**********************Bidirectional Search*********************
+the number of expanded nodes: 354
+the number of made nodes: 1026
+the maximum number of made nodes: 672
+depth of result: 12
+**********************Depth First Search*********************
+the number of expanded nodes: 80144
+the number of made nodes: 132739
+the maximum number of made nodes: 52596
+depth of result: 76506
+**********************A* Search*********************
+the number of expanded nodes: 168
+the number of made nodes: 273
+the maximum number of made nodes: 106
+depth of result: 12

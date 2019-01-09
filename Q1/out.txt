@@ -1,0 +1,18 @@
+**********************Breadth First Search*********************
+the number of expanded nodes: 6234
+the number of made nodes: 35840
+the maximum number of made nodes: 29607
+result: [[(0, 0), (1, 0)], [(0, 1), (1, 1)], [(2, 0), (3, 0)], [(2, 1), (3, 1)]]
+depth of result: 4
+**********************Bidirectional Search*********************
+the number of expanded nodes: 16
+the number of made nodes: 276
+the maximum number of made nodes: 260
+result: [[(0, 0), (1, 0)], [(2, 0), (3, 0)], [(0, 1), (1, 1)], [(2, 1), (3, 1)]]
+depth of result: 2
+**********************Depth First Search*********************
+the number of expanded nodes: 9
+the number of made nodes: 87
+the maximum number of made nodes: 79
+result: [[(3, 1)], [(3, 0)], [(2, 1)], [(2, 0)], [(1, 1)], [(1, 0)], [(0, 1)], [(0, 0)]]
+depth of result: 8
